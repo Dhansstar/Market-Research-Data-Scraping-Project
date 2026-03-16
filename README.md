@@ -1,9 +1,20 @@
-(Indonesia)
+<h1 align="center">Indonesia Version</h1>
+<p align="center">
+  <b style="font-size: 15px; color: #E74C3C;">>>>>></b>
+</p> 
 
-Tokopedia Seblak Market Analysis 🍜
-Market Research & Data Scraping Project
 
-📌 Project Overview
+# <p align="center"> 🍜 TOKOPEDIA SEBLAK ANALYSIS 🍜 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Seblak%20Market%20Research&fontSize=50" />
+</p> 
+
+<h1 align="center">Market Research & Data Scraping Project</h1>
+<p align="center">
+  <b style="font-size: 20px; color: #E74C3C;">Mencari Cuan di Balik Kerupuk Basah</b>
+</p>
+
+# 📌 Project Overview
 Proyek ini bertujuan untuk mengevaluasi potensi bisnis skema dropship produk seblak di platform Tokopedia. Dengan memanfaatkan teknik Web Scraping, Data Preparation, dan Practical Statistics, analisis ini mencoba menjawab apakah tren seblak saat ini didukung oleh data penjualan yang nyata atau hanya sekadar viral sesaat.
 
 Version: GAIAv2.2
@@ -81,12 +92,24 @@ Program: Data Science
 Disclaimer: Proyek ini dibuat untuk tujuan riset pasar. Proses scraping dilakukan dengan memperhatikan batasan teknis dan etika pengumpulan data publik pada platform terkait.
 
 
-(English)
+<h1 align="center">English Version</h1>
+<p align="center">
+  <b style="font-size: 15px; color: #E74C3C;">>>>>></b>
+</p> 
 
-Tokopedia Seblak Market Analysis 🍜
-Market Research & Data Scraping Project
 
-📌 Project Overview
+# <p align="center"> 🍜 TOKOPEDIA SEBLAK ANALYSIS 🍜 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Seblak%20Market%20Research&fontSize=50" />
+</p> 
+
+<h1 align="center">Market Research & Data Scraping Project</h1>
+<p align="center">
+  <b style="font-size: 20px; color: #E74C3C;">Finding Profit Behind Wet Crackers</b>
+</p>
+
+
+# 📌 Project Overview
 This project aims to evaluate the business potential of a seblak dropshipping scheme on the Tokopedia platform. Utilizing Web Scraping, Data Preparation, and Practical Statistics techniques, this analysis attempts to determine whether the current seblak trend is supported by real sales data or is simply a temporary viral phenomenon.
 
 Version: GAIAv2.2
